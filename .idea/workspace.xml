@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d22841-6c75-4d82-bf41-44d871dbaaa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrincipalBot.java" afterDir="false" />
-    </list>
+    <list default="true" id="46d22841-6c75-4d82-bf41-44d871dbaaa4" name="Changes" comment="Bot do discord" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732403029636</updated>
     </task>
+    <task id="LOCAL-00001" summary="Bot do discord">
+      <option name="closed" value="true" />
+      <created>1732411494421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732411494424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bot do discord" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bot do discord" />
   </component>
 </project>
