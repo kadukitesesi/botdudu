@@ -18,7 +18,7 @@ public class PrincipalBot {
 
         discordApi.addMessageCreateListener(event -> {
             if (event.getMessage().getAuthor().getName().equalsIgnoreCase(akashi)) {
-                event.getChannel().sendMessage("Muito HOMO");
+                event.getChannel().sendMessage("Muito Gay");
             } else if (event.getMessage().getAuthor().getName().equalsIgnoreCase(atos)) {
                 event.getChannel().sendMessage("cruzeiro muito ruim 4 X 1");
             }
