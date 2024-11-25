@@ -7,7 +7,7 @@ import org.javacord.api.event.channel.server.voice.ServerVoiceChannelMemberJoinE
 
 public class PrincipalBot {
     public static void main(String[] args) {
-        String token = "MTMxMDAxNDIxMjY4NDM4NjM5NA.G3YtSA.mnyo_1mPhsiNQygsvRHe63pIKxOwYpXvo4MuEI";
+        String token;
         DiscordApi discordApi = new DiscordApiBuilder()
                 .setToken(token)
                 .setAllIntents()
